@@ -27,16 +27,16 @@
 
   - Charles Casper Stockham: 23.0% (85,213 votes)
   - Diana DeGette: 73.8% (272,892 votes)
-  - Raymon Anthony Doane: 3.1% (11,606)
+  - Raymon Anthony Doane: 3.1% (11,606 votes)
   - Winner: Diana Degette
 
 ## PyPoll_Challenge.py
 
   - Total votes, ID of counties, county votes, ID of candidates, and candidate votes calculed in "for" loop starting at Line 51.
   - Winning county county determined in "for" loop starting at line 107.
-  - Formatting for command line output and txt.file output in "for" loop starting at line 107.
-  - Winning candidate determine in "for" loop starting at line 145. 
-  - Formatting for command line output and txt.file output in "for" loop starting at line 145.
+  - Formatting for county command line output and txt.file output in "for" loop starting at line 107.
+  - Winning candidate determined in "for" loop starting at line 145. 
+  - Formatting for candidate command line output and txt.file output in "for" loop starting at line 145.
 
 ## Potential ues for PyPoll_Challenge.py script in other election audits
   - PyPoll_Challenge.py script can be used to audit other election provided input file is in same format as this input.
