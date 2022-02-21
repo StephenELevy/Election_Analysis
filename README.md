@@ -42,6 +42,9 @@
   - PyPoll_Challenge.py script can be used to audit other election provided input file is in same format as this input.
   - PyPoll_Challenge.py script could refactored by changing indexes in lines 57 & 60 to account for column changes for county and candidate data.
 
+![command line screen shot](/Resources/Module_3-challenge_command-line-output.png)
+![txt.file screen shot](/Resources/Module_3-challenge_election_results.txt.png)
+
 
 
 
