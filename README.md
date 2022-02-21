@@ -38,7 +38,7 @@
   - Winning candidate determined in "for" loop starting at line 145. 
   - Formatting for candidate command line output and txt.file output in "for" loop starting at line 145.
 
-## Potential ues for PyPoll_Challenge.py script in other election audits
+## Potential uses for PyPoll_Challenge.py script in other election audits
   - PyPoll_Challenge.py script can be used to audit other election provided input file is in same format as this input.
   - PyPoll_Challenge.py script could refactored by changing indexes in lines 57 & 60 to account for column changes for county and candidate data.
 
