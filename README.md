@@ -7,7 +7,7 @@
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
-  - 
+  
 ##  Audit Process
 
   - The total number of votes cast in the election were calculated.
